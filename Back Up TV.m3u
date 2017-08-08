@@ -75,11 +75,11 @@ http://93.174.93.84:8081/live/skysportmotogp-hq/playlist.m3u8?wmsAuthSign=c2Vydm
 http://93.174.93.84:8081/live/ten1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDE6MDIgUE0maGFzaF92YWx1ZT1SdXhpY3VDZjBiWmpkSW5kZDY0cUx3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTI=
 #EXTINF:-1 group-title=”SPORTS.BACKUP”,. Willow HD 
 http://93.174.93.84:8081/live/sonysix-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDU6MTAgUE0maGFzaF92YWx1ZT1GUGd6aHI4Q1RMWk5PTFdLOEZpeHhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTU=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 1
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 1 HD
 http://93.174.93.84:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDc6NDkgUE0maGFzaF92YWx1ZT1hV2YxZ05UYzBWTStsanJ5eVdpRmF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 2
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 2 HD
 http://93.174.93.84:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDk6MDUgUE0maGFzaF92YWx1ZT1CMU1CRFpaTnpFYzk1Qzg2ajBoNU13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 3
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 3 HD
 http://93.174.93.84:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTA6MDQgUE0maGFzaF92YWx1ZT1XUVUzK2ZITSt6Y0lkWVZDZUYzRmdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjE=
 #EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport Espn
 http://93.174.93.84:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTE6MzEgUE0maGFzaF92YWx1ZT03N0p0dXNDenBFWHFadExlbHowemFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTQ=
