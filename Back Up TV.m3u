@@ -83,3 +83,26 @@ http://93.174.93.84:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://93.174.93.84:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTA6MDQgUE0maGFzaF92YWx1ZT1XUVUzK2ZITSt6Y0lkWVZDZUYzRmdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjE=
 #EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport Espn
 http://93.174.93.84:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTE6MzEgUE0maGFzaF92YWx1ZT03N0p0dXNDenBFWHFadExlbHowemFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTQ=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Eurosport 1
+http://93.174.93.84:8081/live/eurosport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowNTo0MiBQTSZoYXNoX3ZhbHVlPTZnMzY4d3llYXViSXNTaVJYS0RNWWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xNw==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Eurosport 2
+http://93.174.93.84:8081/live/eurosport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowNzo0NiBQTSZoYXNoX3ZhbHVlPUlpUHZNKzdDbko2V1ZZUzNBdVhaR0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xOA==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. FOX Sports 2
+http://93.174.93.84:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowOToyMyBQTSZoYXNoX3ZhbHVlPWJTRUJyQnJ3MGZmK3VGMzR5STlqSGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xOA==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. NBA TV
+http://93.174.93.84:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMDoyMCBQTSZoYXNoX3ZhbHVlPUdjQlJhaS9weFkwUXlRVkVpaFJFemc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Racing UK
+http://93.174.93.84:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMDoyMCBQTSZoYXNoX3ZhbHVlPUdjQlJhaS9weFkwUXlRVkVpaFJFemc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. LFCTV
+http://93.174.93.84:8081/live/lfctv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMjowNiBQTSZoYXNoX3ZhbHVlPWVRNis3MnBUQUN6ZjJLZm8wUXBwRGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. MUTV
+http://93.174.93.84:8081/live/mutv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMzowNyBQTSZoYXNoX3ZhbHVlPUY1K0FkVGt2OEh4SXpkdlowUE8wTWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMg==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. CHELSEA TV
+http://93.174.93.84:8081/live/chelseatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxNDowMSBQTSZoYXNoX3ZhbHVlPWJnVUFyelhycTBablJFSVRSenNFZHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xNw==
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
