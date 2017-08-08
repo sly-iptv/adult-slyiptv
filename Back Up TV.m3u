@@ -59,5 +59,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
 #EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
-#EXTINF:-1 group-title=”Back up”,. Sky Sports HD Cricket
+#EXTINF:-1 group-title=”SKY.SPORTS.BACKUP”,. Sky Sports HD Cricket
 http://93.174.93.84:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MDE6NDggUE0maGFzaF92YWx1ZT1uTndadUluVklpN1Y5SW9CNkk3ckRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
