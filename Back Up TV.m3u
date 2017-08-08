@@ -59,7 +59,40 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
 #EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
-#EXTINF:-1 group-title=”SKY.SPORTS.BACKUP”,. Sky Sports Cricket HD
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Cricket HD
 http://93.174.93.84:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MDE6NDggUE0maGFzaF92YWx1ZT1uTndadUluVklpN1Y5SW9CNkk3ckRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
-#EXTINF:-1 group-title=”SKY.SPORTS.BACKUP”,. Sky Sports Action HD
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Action HD
 http://93.174.93.84:8081/live/skysports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MjU6MjkgUE0maGFzaF92YWx1ZT13MEplNlhJV0ZCa2NjVWtlUzZaUFlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Golf HD
+http://93.174.93.84:8081/live/skysports4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzA6MDEgUE0maGFzaF92YWx1ZT1qdE5OZXhTb1Z2Mm5nUFJPcjB1WEpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Premier League HD
+http://93.174.93.84:8081/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzI6NTQgUE0maGFzaF92YWx1ZT1ETnVJbnlRdWhkVDVxaWl1V1Q4S3VBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports F1 HD
+http://93.174.93.84:8081/live/skysportsf1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzY6MjAgUE0maGFzaF92YWx1ZT11bzFPa3pkd1M0YlhicWhsdisrWCtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTk=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports MOTO GP HD
+http://93.174.93.84:8081/live/skysportmotogp-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6Mzg6NDggUE0maGFzaF92YWx1ZT1hSlZHMFhiajJVcENET3pIbHpCNHVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjI=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Ten 1 SD
+http://93.174.93.84:8081/live/ten1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDE6MDIgUE0maGFzaF92YWx1ZT1SdXhpY3VDZjBiWmpkSW5kZDY0cUx3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTI=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Willow HD 
+http://93.174.93.84:8081/live/sonysix-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDU6MTAgUE0maGFzaF92YWx1ZT1GUGd6aHI4Q1RMWk5PTFdLOEZpeHhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTU=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 1
+http://93.174.93.84:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDc6NDkgUE0maGFzaF92YWx1ZT1hV2YxZ05UYzBWTStsanJ5eVdpRmF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 2
+http://93.174.93.84:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDk6MDUgUE0maGFzaF92YWx1ZT1CMU1CRFpaTnpFYzk1Qzg2ajBoNU13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 3
+http://93.174.93.84:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTA6MDQgUE0maGFzaF92YWx1ZT1XUVUzK2ZITSt6Y0lkWVZDZUYzRmdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjE=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport Espn
+http://93.174.93.84:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTE6MzEgUE0maGFzaF92YWx1ZT03N0p0dXNDenBFWHFadExlbHowemFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTQ=
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+
+#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
