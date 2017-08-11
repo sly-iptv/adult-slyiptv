@@ -101,8 +101,39 @@ http://93.174.93.84:8081/live/mutv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 http://93.174.93.84:8081/live/chelseatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxNDowMSBQTSZoYXNoX3ZhbHVlPWJnVUFyelhycTBablJFSVRSenNFZHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xNw==
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Spider Man Homecoming 2017
 https://r1---sn-aigl6nl7.c.drive.google.com/videoplayback?id=279f1d3510611c17&itag=22&source=webdrive&begin=0&requiressl=yes&hcs=yes&mm=30&mn=sn-aigl6nl7&ms=nxu&mv=m&pl=19&sc=yes&shardbypass=yes&ei=TRyOWYaBIom4cOLMpOgF&susci=o-AAMp4I36-778WK4dBIApekj-uCxouBIi3JrhHBomd_KoGCo&driveid=0B1MNAzDKC53xZDdyX1VmS3hXNVU&mime=video/mp4&lmt=1501376250840659&mt=1502485501&ip=2.29.252.66&ipbits=8&expire=1502492781&sparams=ip,ipbits,expire,id,itag,source,requiressl,hcs,mm,mn,ms,mv,pl,sc,shardbypass,ei,susci,driveid,mime,lmt&signature=94D123FC26A7BE369C4144502CA3169218EC9D9D.026D9859A28E65FABBB2AE22BE189A55D0AFD187&key=ck2
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Despicable Me 3 (cam) 2017
+https://r2---sn-aigllnzr.c.drive.google.com/videoplayback?id=d0ddb5c4b800e47d&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aigllnzr&ms=nxu&mv=m&pl=19&sc=yes&ei=hh6OWb2HOYLLcZbIl5AH&susci=o-ACR5bmY6TkMn4Usg_aqZVzHkZTT6FlIGTxxUZhtFSyNTARk&driveid=0B0Iyh3V1348Cc203REViUTRjX3c&mime=video/mp4&lmt=1502004686474557&mt=1502486030&ip=2.29.252.66&ipbits=8&expire=1502493350&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=98739F2D03782CED25956074424EEC32B8BCA514.0FB9B0DDDBC7603425DFB974BC12CCE902558C3B&key=ck2
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Dunkirk (cam) 2017
+https://r4---sn-aiglln6l.c.drive.google.com/videoplayback?id=0e91e9e4d8783777&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aiglln6l&ms=nxu&mv=m&pl=19&sc=yes&ei=Rx-OWfjoJom4cOLMpOgF&susci=o-AKOD5Z4xulq-1K7LoKLrr3bloh9idL0qnk7kdI0TG_roOz4&driveid=0B_tHGWftykTOcUZmV1BtcTRJeTg&mime=video/mp4&lmt=1502439640646349&mt=1502486268&ip=2.29.252.66&ipbits=8&expire=1502493543&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=45757011DDE60F6839D1FA2784EE18B3260F6451.9794E82C0F7899FC8D3DB0374FF793908328176B&key=ck2
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.War For The Planet Of The Apes (CAM) 2017
+https://1fiafzw.oloadcdn.net/dl/l/oEIK2Ppvo2K2qyH7/1wcNoQGsnHo/War.For.The.Planet.Of.The.Apes.2017.720p.HDTS.x264-iFTWiKi.mp4?mime=true
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Shot Caller HD 2017
+https://pgli3d.oloadcdn.net/dl/l/XLVKr5WFs_kDmL0b/CjnWl_1frJw/shot.caller.2017.720p.web-dl.xvid.ac3-fgt.mp4?mime=true
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.One Upon A time Venice (HD) 2017
+https://r12---sn-aigllnsy.c.drive.google.com/videoplayback?id=8be610b372a55ca9&itag=37&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aigllnsy&ms=nxu&mv=m&pl=19&sc=yes&ei=7SGOWe2SCJfwcrvYh8gG&susci=o-AIlMaosyuHCU_105j77evgBlIYxo5pXJwMLlPIB1OgS34vk&driveid=0B2VPg-UEgZypLWFEbWV4RXlLekk&mime=video/mp4&lmt=1501242302166694&mt=1502486924&ip=2.29.252.66&ipbits=8&expire=1502494221&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=8421E277D2D44A030174668A39369461380A2205.2DE5A377ADE4585C5DAE8C4EF6EE1653B0E5B273&key=ck2
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
 
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
 
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,.
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
+#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
+
