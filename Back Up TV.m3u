@@ -57,66 +57,21 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 #EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One East
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
-#EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Cricket HD
-http://93.174.93.84:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MDE6NDggUE0maGFzaF92YWx1ZT1uTndadUluVklpN1Y5SW9CNkk3ckRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Action HD
-http://93.174.93.84:8081/live/skysports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MjU6MjkgUE0maGFzaF92YWx1ZT13MEplNlhJV0ZCa2NjVWtlUzZaUFlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Golf HD
-http://93.174.93.84:8081/live/skysports4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzA6MDEgUE0maGFzaF92YWx1ZT1qdE5OZXhTb1Z2Mm5nUFJPcjB1WEpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports Premier League HD
-http://93.174.93.84:8081/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzI6NTQgUE0maGFzaF92YWx1ZT1ETnVJbnlRdWhkVDVxaWl1V1Q4S3VBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTg=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports F1 HD
-http://93.174.93.84:8081/live/skysportsf1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6MzY6MjAgUE0maGFzaF92YWx1ZT11bzFPa3pkd1M0YlhicWhsdisrWCtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTk=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Sky Sports MOTO GP HD
-http://93.174.93.84:8081/live/skysportmotogp-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6Mzg6NDggUE0maGFzaF92YWx1ZT1hSlZHMFhiajJVcENET3pIbHpCNHVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjI=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Ten 1 SD
-http://93.174.93.84:8081/live/ten1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDE6MDIgUE0maGFzaF92YWx1ZT1SdXhpY3VDZjBiWmpkSW5kZDY0cUx3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTI=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Willow HD 
-http://93.174.93.84:8081/live/sonysix-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDU6MTAgUE0maGFzaF92YWx1ZT1GUGd6aHI4Q1RMWk5PTFdLOEZpeHhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTU=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 1 HD
-http://93.174.93.84:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDc6NDkgUE0maGFzaF92YWx1ZT1hV2YxZ05UYzBWTStsanJ5eVdpRmF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 2 HD
-http://93.174.93.84:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NDk6MDUgUE0maGFzaF92YWx1ZT1CMU1CRFpaTnpFYzk1Qzg2ajBoNU13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTY=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport 3 HD
-http://93.174.93.84:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTA6MDQgUE0maGFzaF92YWx1ZT1XUVUzK2ZITSt6Y0lkWVZDZUYzRmdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MjE=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. BT Sport Espn
-http://93.174.93.84:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTI6NTE6MzEgUE0maGFzaF92YWx1ZT03N0p0dXNDenBFWHFadExlbHowemFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTguMTImc3RybV9sZW49MTQ=
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Eurosport 1
-http://93.174.93.84:8081/live/eurosport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowNTo0MiBQTSZoYXNoX3ZhbHVlPTZnMzY4d3llYXViSXNTaVJYS0RNWWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xNw==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Eurosport 2
-http://93.174.93.84:8081/live/eurosport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowNzo0NiBQTSZoYXNoX3ZhbHVlPUlpUHZNKzdDbko2V1ZZUzNBdVhaR0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xOA==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. FOX Sports 2
-http://93.174.93.84:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMTowOToyMyBQTSZoYXNoX3ZhbHVlPWJTRUJyQnJ3MGZmK3VGMzR5STlqSGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xOA==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. NBA TV
-http://93.174.93.84:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMDoyMCBQTSZoYXNoX3ZhbHVlPUdjQlJhaS9weFkwUXlRVkVpaFJFemc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. Racing UK
-http://93.174.93.84:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMDoyMCBQTSZoYXNoX3ZhbHVlPUdjQlJhaS9weFkwUXlRVkVpaFJFemc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. LFCTV
-http://93.174.93.84:8081/live/lfctv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMjowNiBQTSZoYXNoX3ZhbHVlPWVRNis3MnBUQUN6ZjJLZm8wUXBwRGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMw==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. MUTV
-http://93.174.93.84:8081/live/mutv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxMzowNyBQTSZoYXNoX3ZhbHVlPUY1K0FkVGt2OEh4SXpkdlowUE8wTWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xMg==
-#EXTINF:-1 group-title=”SPORTS.BACKUP”,. CHELSEA TV
-http://93.174.93.84:8081/live/chelseatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMToxNDowMSBQTSZoYXNoX3ZhbHVlPWJnVUFyelhycTBablJFSVRSenNFZHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OC4xMiZzdHJtX2xlbj0xNw==
-#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Spider Man Homecoming 2017
-https://r1---sn-aigl6nl7.c.drive.google.com/videoplayback?id=279f1d3510611c17&itag=22&source=webdrive&begin=0&requiressl=yes&hcs=yes&mm=30&mn=sn-aigl6nl7&ms=nxu&mv=m&pl=19&sc=yes&shardbypass=yes&ei=TRyOWYaBIom4cOLMpOgF&susci=o-AAMp4I36-778WK4dBIApekj-uCxouBIi3JrhHBomd_KoGCo&driveid=0B1MNAzDKC53xZDdyX1VmS3hXNVU&mime=video/mp4&lmt=1501376250840659&mt=1502485501&ip=2.29.252.66&ipbits=8&expire=1502492781&sparams=ip,ipbits,expire,id,itag,source,requiressl,hcs,mm,mn,ms,mv,pl,sc,shardbypass,ei,susci,driveid,mime,lmt&signature=94D123FC26A7BE369C4144502CA3169218EC9D9D.026D9859A28E65FABBB2AE22BE189A55D0AFD187&key=ck2
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Despicable Me 3 (cam) 2017
-https://r2---sn-aigllnzr.c.drive.google.com/videoplayback?id=d0ddb5c4b800e47d&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aigllnzr&ms=nxu&mv=m&pl=19&sc=yes&ei=hh6OWb2HOYLLcZbIl5AH&susci=o-ACR5bmY6TkMn4Usg_aqZVzHkZTT6FlIGTxxUZhtFSyNTARk&driveid=0B0Iyh3V1348Cc203REViUTRjX3c&mime=video/mp4&lmt=1502004686474557&mt=1502486030&ip=2.29.252.66&ipbits=8&expire=1502493350&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=98739F2D03782CED25956074424EEC32B8BCA514.0FB9B0DDDBC7603425DFB974BC12CCE902558C3B&key=ck2
+https://3.bp.blogspot.com/xlo-77MRvLgesQGpG7huZvd1tgmh3XMbgHuapEmllZNdKkJ-PCaqTkh0woznuQaA8T0WocNl3Xgl0PMCZd69c04ZBNG6dSvJMy8tW__4HMhQ5PXBUdZYhwDFspTD9kL06tWUG6buyw=m22
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Dunkirk (cam) 2017
-https://r4---sn-aiglln6l.c.drive.google.com/videoplayback?id=0e91e9e4d8783777&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aiglln6l&ms=nxu&mv=m&pl=19&sc=yes&ei=Rx-OWfjoJom4cOLMpOgF&susci=o-AKOD5Z4xulq-1K7LoKLrr3bloh9idL0qnk7kdI0TG_roOz4&driveid=0B_tHGWftykTOcUZmV1BtcTRJeTg&mime=video/mp4&lmt=1502439640646349&mt=1502486268&ip=2.29.252.66&ipbits=8&expire=1502493543&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=45757011DDE60F6839D1FA2784EE18B3260F6451.9794E82C0F7899FC8D3DB0374FF793908328176B&key=ck2
+https://3.bp.blogspot.com/gIk4YPMmfAaXUBH350Aib6K_1kbV7_8uxwQxzJDdUETTOJIuDeQmKieDCC5YcvqACbzYMdcxiPhbZZNYTQ=m22
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.War For The Planet Of The Apes (CAM) 2017
-https://1fiafzw.oloadcdn.net/dl/l/oEIK2Ppvo2K2qyH7/1wcNoQGsnHo/War.For.The.Planet.Of.The.Apes.2017.720p.HDTS.x264-iFTWiKi.mp4?mime=true
+https://openload.co/stream/1wcNoQGsnHo~1502745180~2.29.0.0~VkpUGbwp?mime=true
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Shot Caller (HD) 2017
-https://pgli3d.oloadcdn.net/dl/l/XLVKr5WFs_kDmL0b/CjnWl_1frJw/shot.caller.2017.720p.web-dl.xvid.ac3-fgt.mp4?mime=true
+https://openload.co/stream/CjnWl_1frJw~1502745278~2.29.0.0~vWcLldBj?mime=true
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.One Upon A time Venice (HD) 2017
-https://r12---sn-aigllnsy.c.drive.google.com/videoplayback?id=8be610b372a55ca9&itag=37&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-aigllnsy&ms=nxu&mv=m&pl=19&sc=yes&ei=7SGOWe2SCJfwcrvYh8gG&susci=o-AIlMaosyuHCU_105j77evgBlIYxo5pXJwMLlPIB1OgS34vk&driveid=0B2VPg-UEgZypLWFEbWV4RXlLekk&mime=video/mp4&lmt=1501242302166694&mt=1502486924&ip=2.29.252.66&ipbits=8&expire=1502494221&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ei,susci,driveid,mime,lmt&signature=8421E277D2D44A030174668A39369461380A2205.2DE5A377ADE4585C5DAE8C4EF6EE1653B0E5B273&key=ck2
+https://lh3.googleusercontent.com/aw-O5UnMg8egQAPL1bhuOMCyqD1KOr11uUQ-F63q-aXG_yaop3se1uVPi_Y6KpECTWNre-yO8g90Kgr03mA7dRleM53r97U_d2dUurX_627Ex1lVgAib9vzDVKug9otPopd4ESM8UQ=m37
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Feed (HD) 2017
-https://ph2dvz.oloadcdn.net/dl/l/N3d-glcZT-2-4V3_/FZOPGxJx7k0/Feed.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4?mime=true
+https://openload.co/stream/FZOPGxJx7k0~1502745550~2.29.0.0~iRzCVIfL?mime=true
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.Blind (HD) 2017
-https://1fiagea.oloadcdn.net/dl/l/JQpzSHyy_9VXwwCt/56c3LcdOwLI/Blind.2017.720p.BluRay.H264.AAC-RARBG.mp4?mime=true
-#EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.11.55 (HQ) 2017
-https://1fiag02.oloadcdn.net/dl/l/dRw6F11Xn05K0IKP/kAtqP_7HGXc/11.55.2016.WEB-DL.x264-FGT.mp4?mime=true
+https://openload.co/stream/56c3LcdOwLI~1502745668~2.29.0.0~BlI0x4sj?mime=true
+
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
 
 #EXTINF:-1 group-title=”TV.SUPPORT.FILMS”,.
