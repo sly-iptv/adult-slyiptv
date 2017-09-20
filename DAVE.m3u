@@ -1,0 +1,5 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DAVE FHD FOOTBALL"  group-title="DAVE",DAVE FHD FOOTBALL
+https://hls.ssh101.com/live/bigmac21/index.m3u8
+
