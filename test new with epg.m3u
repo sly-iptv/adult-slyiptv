@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="Sky Sport 1" tvg-logo="New Logo" tvg-name="SKY SPORTS MAIN EVENT"  group-title="UK SPORTS",SKY SPORTS MAIN EVENT
+#EXTINF:0, tvg-id="Sky Sports 1" tvg-logo="New Logo" tvg-name="SKY SPORTS MAIN EVENT"  group-title="UK SPORTS",SKY SPORTS MAIN EVENT
 http://89.248.172.239:8088/cast4u/skys1/media_1631.ts?id=20&wowzasessionid=082120461&pk=e0e83cab069a0524e50f096a5bd3b8acdabc0286a5be20e08cae9fddea8a4993
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
