@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="Sky Sports 1" tvg-logo="New Logo" tvg-name="SKY SPORTS MAIN EVENT"  group-title="UK SPORTS",SKY SPORTS MAIN EVENT
-http://93.174.93.68:8088/cast4u/skys1/playlist.m3u8?id=20&wowzasessionid=524610099&pk=e0e83cab069a0524e50f096a5bd3b8acdabc0286a5be20e08cae9fddea8a4993
+http://185.212.201.210/cavscampeon/252414.m3u8?wmsAuthSign2=NTlhMTQwZWFmMmE2Mw==&token=c2VydmVyX3RpbWU9MTUwNTkyMDc3MyZoYXNoX3ZhbHVlPWJLZy9lRjVYSEV5WXJydlVyU0trYnc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
 http://123.456.789
